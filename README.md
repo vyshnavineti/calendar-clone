@@ -75,6 +75,8 @@ npm run dev
 ---
 ## 🖼️ Project Preview
 <img width="656" height="836" alt="image" src="https://github.com/user-attachments/assets/3df667eb-f5a3-4607-beb7-a391699bc9fe" />
+<img width="971" height="700" alt="image" src="https://github.com/user-attachments/assets/639aaf1e-89f4-41e8-9197-8a1c8dec0dcb" />
+
 
 ---
 ## 👩‍💻 Author
