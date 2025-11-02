@@ -61,7 +61,7 @@ calendar-clone/
 ### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/vyshnavineti/calendar-clone.git
-cd backend && npm install && node server.js
+cd backend && npm install && npx nodemon server.js
 frontend && npm run dev
 ```
 ---
