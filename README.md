@@ -61,8 +61,8 @@ calendar-clone/
 ### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/vyshnavineti/calendar-clone.git
-npm install
-npm run dev
+cd backend && npm install && node server.js
+frontend && npm run dev
 ```
 ---
 ## 🧩 Architecture Overview
@@ -77,7 +77,7 @@ npm run dev
 <img width="656" height="836" alt="image" src="https://github.com/user-attachments/assets/3df667eb-f5a3-4607-beb7-a391699bc9fe" />
 <img width="971" height="700" alt="image" src="https://github.com/user-attachments/assets/639aaf1e-89f4-41e8-9197-8a1c8dec0dcb" />
 
-
+It doesn't create multiple meetings at same date and time.
 ---
 ## 👩‍💻 Author
 
